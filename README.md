@@ -1,1 +1,1 @@
-Github realated project
+Github related project
